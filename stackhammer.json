@@ -16,6 +16,12 @@
             "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAAA/gvFvT5L9893icN6DTICRhRThXwvt9IiMGf5al4E/LmfTqsgOehUwuLWIr2bSbO06g95HavVxrcyAyhOIUIH4ehk/uKIf6of6tlTtZ9gdWt0DDok3qrAgQFquO0mi4jiOSlkMwTV2gk9zdcVcBn5UUziPFsXDGz8IVZ0TH91fZz3r92iRA3jnNyGeu+Wf32j2uaOilmEGgnTkz+klbTOEMgxjYNfw0t94FB3dDZxxMhyuix4Lau6aKZUB1cCmKZUf4zGQXNSHYUTVMGdgFmk2kiOM8AEeRcDyze2hl+sCNOwAhbhT2+tlxJTd3M4rz41Gvkx/8xzEKtcx466dxZ7 Jochen Krause@vaio5"
           ],
           "name": "jochen_test"
+        },
+        {
+          "type": "T1_MICRO",
+          "deployState": "RUNNING",
+          "image": "ami-31814f58",
+          "name": "lenkungsausschuss"
         }
       ],
       "name": "production"
